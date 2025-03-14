@@ -73,6 +73,7 @@
 - Hands-On Machine Learning – Aurélien Géron
 - Fast.ai – Intro to ML
 - Kaggle – Titanic ML Competition
+- DataTalks.Club - [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/)
 
 ---
 
